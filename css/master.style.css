@@ -1,0 +1,21 @@
+footer{
+	background-color: #343a40;
+}
+
+.copyright_section_bg{
+	background-color: #212529;
+}
+li.footer_list_heading{
+	color: #868e96;
+	font-size: 1rem;
+}
+li.footer_list_item{
+	color: #dee2e6;
+	font-size: .8rem;
+}
+.product-grid{
+	margin: 1em 0;
+}
+.follow_us{
+	color: #78cdff;
+}
