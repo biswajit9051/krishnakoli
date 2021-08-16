@@ -6,18 +6,21 @@
 		  	span,p,li,a {
 		    	font-size: 14px;
 		  	}
+        .portfolio-grid {
+          grid-template-columns: repeat(2, 1fr);
+        }
 		}
 		@media (min-width: 576px) and (max-width: 767.98px) {
 		  
 		  	h4 {
 		    	font-size: 20px;
 		  	}
-		  	span,
-		  p,
-		  li,
-		  	a {
+		  	span, p, li,	a {
 		    	font-size: 14px;
 		  	}
+        .portfolio-grid {
+          grid-template-columns: repeat(2, 1fr);
+        }
 		}
 
 		
@@ -94,7 +97,7 @@
 }
 @media (max-width: 768px) {
   .portfolio-grid {
-    grid-template-columns: repeat(1, 1fr);
+    grid-template-columns: repeat(2, 1fr);
   }
 }
 @media only screen and (min-width: 768.1px) and (max-width: 991px) {
@@ -127,16 +130,28 @@
   transform: scale(1.2)
 }
 .first .portfolio-bg{
-  background-image: url('https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/13901220/2021/4/12/ecaac2a1-036c-4c1d-b5a9-2c025a235a7b1618227724245-Saree-Mall-Rust-Organza-Ethnic-Floral-Print-Casual-Wear-Sare-1.jpg');
+  background-image: url('../images/Bhagalpuri Deshi Tashor Embroidery Exclusive Collection/WhatsApp Image 2021-08-04 at 9.32.38 PM.jpeg');
   
 }
 .second .portfolio-bg{
-  background-image: url('https://i.pinimg.com/550x/8e/22/d2/8e22d29cef155013a9e877730ba156c2.jpg');
+  background-image: url('../images/Handmade Jewellery Collection/WhatsApp Image 2021-08-04 at 9.42.10 PM.jpeg');
 }
 .third .portfolio-bg{
-  background-image: url('https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/13901220/2021/4/12/ecaac2a1-036c-4c1d-b5a9-2c025a235a7b1618227724245-Saree-Mall-Rust-Organza-Ethnic-Floral-Print-Casual-Wear-Sare-1.jpg');
+  background-image: url('../images/Hand Ari Work On Bishnupuri Katan Silk/WhatsApp Image 2021-08-04 at 9.38.44 PM.jpeg');
   
 }
+.forth .portfolio-bg{
+  background-image: url('../images/Bengal Cotton Weaved Border With Hand Block Print/WhatsApp Image 2021-08-05 at 10.41.59 AM.jpeg');
+  
+}
+.fifth .portfolio-bg{
+  background-image: url('../images/Bhagalpuri Deshi Tashor Embroidery Exclusive Collection/WhatsApp Image 2021-08-04 at 9.32.41 PM (1).jpeg');
+  
+}
+.sixth .portfolio-bg{
+  background-image: url('../images/Handmade Jewellery Collection/WhatsApp Image 2021-08-04 at 9.42.08 PM.jpeg');
+}
+
 .portfolio .label {
   position: absolute;
   width: 100%;

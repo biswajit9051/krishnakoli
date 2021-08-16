@@ -1,0 +1,9 @@
+how to upload existing project->
+1. 	main dicrectry right click, Git Bash Here
+2.	git add *
+3.	git commit -m "update 1"
+4.	git push -u origin master
+5.	exit
+
+
+how to change project name->

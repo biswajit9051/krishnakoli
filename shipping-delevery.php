@@ -35,7 +35,7 @@
 		<div class="col-12">
 			<h4>Transit Risk</h4>
 			<p>
-				Adi Mohini Mohan Kanjilal Marketing Pvt. Ltd. ships all parcels fully safe and secured at no extra cost to customers. If any of the courier companies fail to deliver the product, you do not suffer any loss. In-transit risk is all ours. But we will not bear any responsibility for lost and stolen packages or any full or partially damaged packages, after they are being left at customer's address by postal address or courier agency.
+				krishnakoli exclusive collections ships all parcels fully safe and secured at no extra cost to customers. If any of the courier companies fail to deliver the product, you do not suffer any loss. In-transit risk is all ours. But we will not bear any responsibility for lost and stolen packages or any full or partially damaged packages, after they are being left at customer's address by postal address or courier agency.
 			</p>
 		</div>
 		<div class="col-12">
@@ -49,7 +49,7 @@
 		<div class="col-12">
 			<h4>Address Change Requests</h4>
 			<p>
-				Address update (changing) requests may be supported and accepted within 24 hours of placing the order. You may send your update request to support@ammk.in.
+				Address update (changing) requests may be supported and accepted within 24 hours of placing the order. You may send your update request to support@krishnakoli.com.
 			</p>
 		</div>
 		<div class="col-12">

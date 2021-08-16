@@ -1,12 +1,15 @@
 footer{
-	background-color: #343a40;
+	background-color: #3a9cff !important;
+}
+nav{
+	background-color: #3a9cff !important;
 }
 
 .copyright_section_bg{
-	background-color: #212529;
+	background-color: #0080ff !important;
 }
 li.footer_list_heading{
-	color: #868e96;
+	color: #383838;
 	font-size: 1rem;
 }
 li.footer_list_item{
@@ -17,5 +20,8 @@ li.footer_list_item{
 	margin: 1em 0;
 }
 .follow_us{
-	color: #78cdff;
+	color: #383838;
+}
+.footer_list_item>a{
+	color: #dee2e6;
 }

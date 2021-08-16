@@ -36,8 +36,8 @@
 			  	</div>
 			  	<div  class="col-md-6">
           			<h5>Address: <small class="text-muted">Venkatadri IT Park, HP Avenue, Konnappana, Electronic city, Bengaluru, Karnataka 560069</small></h5>
-          			<h5>Email: <small class="text-muted">hire@luxurytaxicab.com</small></h5>
-          			<h5>Contact: <small class="text-muted">+91 98765 10278 || +91 76589 14244</small></h5>
+          			<h5>Email: <small class="text-muted">info@kothakoli.com</small></h5>
+          			<h5>Contact: <small class="text-muted">+91 9051757287</small></h5>
 	  			</div>
         		<div class="col-12 mt-3 mb-3">
         			<div class="text-center">

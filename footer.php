@@ -19,14 +19,14 @@
 					<ul class="list-unstyled">
 						<li class="footer_list_heading">CONTACT US</li>
 						<li class="footer_list_item"><?php echo COMPANY_ADDRESS; ?></li>
-						<li class="footer_list_item">(+91) 83369 123457</li>
-						<li class="footer_list_item">(+91) 33225 12345</li>
+						<li class="footer_list_item">(+91) 9051757287</li>
+						<li class="footer_list_item">(+91) 9051757287</li>
 						<li class="footer_list_item">Infinity Square, Sevoke Rd, 2nd Mile, Near PC Mittal Bus Stop, Siliguri, West Bengal 734001</li>
-						<li class="footer_list_item">care@abc.in</li>
+						<li class="footer_list_item">info@kothakoli.com</li>
 						<li class="footer_list_item"><a href="https://goo.gl/maps/i1H54i8MhzCTm9Vd6" target="_blank"> Map Direction <i class="fas fa-external-link-alt"></i></a></li>
 					</ul>
 				</div>
-				<div class="col-lg-2 col-md-2 col-sm-6 col-xs-6">
+				<div class="col-lg-2 col-md-2 col-sm-6 col-xs-6 col-xxs-6">
 					<ul class="list-unstyled">
 						<li class="footer_list_heading">STORE</li>
 						<li class="footer_list_item">My account</li>
@@ -36,7 +36,7 @@
 						<li class="footer_list_item">Site map</li>
 					</ul>
 				</div>
-				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 col-xxs-6">
 					<ul class="list-unstyled">
 						<li class="footer_list_heading">INFORMATION</li>
 						<li class="footer_list_item">Special products</li>
@@ -111,7 +111,17 @@
 			// Run the show!
 			filterList.init();
 		});	
+
+
   	</script>
+
+  	<script>
+      $(document).ready(function() {
+          	document.addEventListener("contextmenu", function(e){
+			    e.preventDefault();
+			}, false);
+        });
+    </script>
 
   	<!-- client carasol -->
   	<script type="text/javascript">
@@ -144,7 +154,22 @@
 			mouseDrag: true,
 			autoplay: true,
 			autoplayTimeout: 1000,
-			smartSpeed: 800
+			smartSpeed: 800,
+			responsiveClass:true,
+		    responsive:{
+		        0:{
+		            items:1,
+		            nav:true
+		        },
+		        600:{
+		            items:1,
+		            nav:false
+		        },
+		        1000:{
+		            items:2,
+		            nav:true
+		        }
+		    }
 		});
 
   	</script>
