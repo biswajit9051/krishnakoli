@@ -1,6 +1,6 @@
 <?php include('header.php');?>
 
-<div class="container-fluid">
+<div class="container">
 	<div class="row">
 		<div id="demo" class="carousel slide" data-ride="carousel">
 
@@ -42,6 +42,7 @@
 	</div>
 	<!-- free shipping -->
 	<div class="row pt-5 pb-5" style="background-color: #f7f7f7eb;">
+		
 		<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 col-xxs-4">
 			<div class="d-block text-center">
 				<div class=""><img src="images/free_shipping/free_shipping.png" class="img-fluid w-25"></div>
@@ -150,7 +151,7 @@
 				                  <h4>TASHOR</h4>
 				                  <h5>COLLECTION</h5>
 				                  <!-- <span class="text-category">Snippet</span> -->
-				                  <a href="#" class="template-btn" target="_blank">View</a>
+				                  <a href="tashor-saree.php" class="template-btn">View</a>
 				                </div>
 				                <div class="label-bg"> </div>
 				              </div>
@@ -164,7 +165,7 @@
 				                  <h4>HANDMADE JEWELLERY</h4>
 				                  <h5>COLLECTION</h5>
 				                  <!-- <span class="text-category">Design</span> -->
-				                  <a href="#" class="template-btn" target="_blank">View</a>
+				                  <a href="handmade-jewellery.php" class="template-btn">View</a>
 				                </div>
 				                <div class="label-bg"> </div>
 				              </div>
@@ -178,7 +179,7 @@
 				                  <h4>SILK</h4>
 				                  <h5>COLLECTION</h5>
 				                  <!-- <span class="text-category">Full Project</span> -->
-				                  <a href="#" class="template-btn" target="_blank">View</a>
+				                  <a href="silk-sarees.php" class="template-btn">View</a>
 				                </div>
 				                <div class="label-bg"> </div>
 				              </div>
@@ -192,7 +193,7 @@
 				                  <h4>HAND BLOCK</h4>
 				                  <h5>COLLECTION</h5>
 				                  <!-- <span class="text-category">Design</span> -->
-				                  <a href="#" class="template-btn" target="_blank">View</a>
+				                  <a href="hand-block.php" class="template-btn">View</a>
 				                </div>
 				                <div class="label-bg"> </div>
 				              </div>
@@ -206,7 +207,7 @@
 				                  <h4>TASHOR</h4>
 				                  <h5>COLLECTION</h5>
 				                  <!-- <span class="text-category">Full Project</span> -->
-				                  <a href="#" class="template-btn" target="_blank">View</a>
+				                  <a href="tashor-saree.php" class="template-btn">View</a>
 				                </div>
 				                <div class="label-bg"> </div>
 				              </div>
@@ -220,12 +221,13 @@
 				                  <h4>HANDMADE JEWELLERY</h4>
 				                  <h5>COLLECTION</h5>
 				                  <!-- <span class="text-category">Snippet</span> -->
-				                  <a href="#" class="template-btn" target="_blank">View</a>
+				                  <a href="handmade-jewellery.php" class="template-btn">View</a>
 				                </div>
 				                <div class="label-bg"> </div>
 				              </div>
 				            </div>
 			          	</div>
+			          	
 		        	</div>
 		      	</div>
 		    </section>
@@ -492,73 +494,89 @@
 			  	<div class="carousel-inner">
 				    <div class="carousel-item active text-center justify-content-center">
 				    	<div class="row">
-					      	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 mt-2 mb-2"> 
-								<div class="card mouse-hover">
-								  	<img class="card-img-top" src="https://content-d11d.kxcdn.com/pub/media/wysiwyg/categories/banarasi1.jpg" alt="Card image cap">
-								  	<div class="card-body">
-									    <h5 class="card-title cat-card-font">Tashor Top And Dupatta</h5>
-								  	</div>
-								</div>
+					      	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 mt-2 mb-2">
+					      		<a href="tashor-saree.php">
+									<div class="card mouse-hover">
+									  	<img class="card-img-top" src="https://content-d11d.kxcdn.com/pub/media/wysiwyg/categories/banarasi1.jpg" alt="Card image cap">
+									  	<div class="card-body">
+										    <h5 class="card-title cat-card-font">Tashor Top And Dupatta</h5>
+									  	</div>
+									</div>
+								</a>
 							</div>
 							<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 mt-2 mb-2">
-								<div class="card mouse-hover">
-								  	<img class="card-img-top" src="https://content-d11d.kxcdn.com/pub/media/wysiwyg/chiffon.jpg" alt="Card image cap">
-								  	<div class="card-body">
-									    <h5 class="card-title cat-card-font">Tashor Jari Border </h5>
-								  	</div>
-								</div>
+								<a href="tashor-saree.php">
+									<div class="card mouse-hover">
+									  	<img class="card-img-top" src="https://content-d11d.kxcdn.com/pub/media/wysiwyg/chiffon.jpg" alt="Card image cap">
+									  	<div class="card-body">
+										    <h5 class="card-title cat-card-font">Tashor Jari Border </h5>
+									  	</div>
+									</div>
+								</a>
 							</div>
 							<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 mt-2 mb-2">
-								<div class="card mouse-hover">
-								  	<img class="card-img-top" src="https://content-d11d.kxcdn.com/pub/media/wysiwyg/cotton.jpg" alt="Card image cap">
-								  	<div class="card-body">
-									    <h5 class="card-title cat-card-font">Handmade Jewellery</h5>
-								  	</div>
-								</div>
+								<a href="handmade-jewellery.php">
+									<div class="card mouse-hover">
+									  	<img class="card-img-top" src="https://content-d11d.kxcdn.com/pub/media/wysiwyg/cotton.jpg" alt="Card image cap">
+									  	<div class="card-body">
+										    <h5 class="card-title cat-card-font">Handmade Jewellery</h5>
+									  	</div>
+									</div>
+								</a>
 							</div>
 							<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 mt-2 mb-2">
-								<div class="card mouse-hover">
-								  	<img class="card-img-top" src="https://content-d11d.kxcdn.com/pub/media/wysiwyg/categories/silk1.jpg" alt="Card image cap">
-								  	<div class="card-body">
-									    <h5 class="card-title cat-card-font">Katan Silk</h5>
-								  	</div>
-								</div>
+								<a href="silk-sarees.php">
+									<div class="card mouse-hover">
+									  	<img class="card-img-top" src="https://content-d11d.kxcdn.com/pub/media/wysiwyg/categories/silk1.jpg" alt="Card image cap">
+									  	<div class="card-body">
+										    <h5 class="card-title cat-card-font">Katan Silk</h5>
+									  	</div>
+									</div>
+								</a>
 							</div>
 						</div>
 				    </div>
 				   <div class="carousel-item text-center">
 				   		<div class="row">
 					      	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 mt-2 mb-2">
-								<div class="card mouse-hover">
-								  	<img class="card-img-top" src="https://content-d11d.kxcdn.com/pub/media/wysiwyg/categories/south-silk1.jpg" alt="Card image cap">
-								  	<div class="card-body">
-									    <h5 class="card-title cat-card-font">Deshi Tashor Hand Fulkari</h5>
-								  	</div>
-								</div>
+					      		<a href="tashor-saree.php">
+									<div class="card mouse-hover">
+									  	<img class="card-img-top" src="https://content-d11d.kxcdn.com/pub/media/wysiwyg/categories/south-silk1.jpg" alt="Card image cap">
+									  	<div class="card-body">
+										    <h5 class="card-title cat-card-font">Deshi Tashor Hand Fulkari</h5>
+									  	</div>
+									</div>
+								</a>
 							</div>
 							<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 mt-2 mb-2">
-								<div class="card mouse-hover">
-								  	<img class="card-img-top" src="https://content-d11d.kxcdn.com/pub/media/wysiwyg/silk.jpg" alt="Card image cap">
-								  	<div class="card-body">
-									    <h5 class="card-title cat-card-font">Bhagalpuri Deshi Tashor</h5>
-								  	</div>
-								</div>
+								<a href="tashor-saree.php">
+									<div class="card mouse-hover">
+									  	<img class="card-img-top" src="https://content-d11d.kxcdn.com/pub/media/wysiwyg/silk.jpg" alt="Card image cap">
+									  	<div class="card-body">
+										    <h5 class="card-title cat-card-font">Bhagalpuri Deshi Tashor</h5>
+									  	</div>
+									</div>
+								</a>
 							</div>
 							<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 mt-2 mb-2">
-								<div class="card mouse-hover">
-								  	<img class="card-img-top" src="https://content-d11d.kxcdn.com/pub/media/wysiwyg/chiffon.jpg" alt="Card image cap">
-								  	<div class="card-body">
-									    <h5 class="card-title cat-card-font">Cotton Weaved Hand Block Print</h5>
-								  	</div>
-								</div>
+								<a href="hand-block.php">
+									<div class="card mouse-hover">
+									  	<img class="card-img-top" src="https://content-d11d.kxcdn.com/pub/media/wysiwyg/chiffon.jpg" alt="Card image cap">
+									  	<div class="card-body">
+										    <h5 class="card-title cat-card-font">Cotton Weaved Hand Block Print</h5>
+									  	</div>
+									</div>
+								</a>
 							</div>
 							<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 mt-2 mb-2">
-								<div class="card mouse-hover">
-								  	<img class="card-img-top" src="https://content-d11d.kxcdn.com/pub/media/wysiwyg/categories/south-silk1.jpg" alt="Card image cap">
-								  	<div class="card-body">
-									    <h5 class="card-title cat-card-font">Deshi Tashor Hand Fulkari</h5>
-								  	</div>
-								</div>
+								<a href="tashor-saree.php">
+									<div class="card mouse-hover">
+									  	<img class="card-img-top" src="https://content-d11d.kxcdn.com/pub/media/wysiwyg/categories/south-silk1.jpg" alt="Card image cap">
+									  	<div class="card-body">
+										    <h5 class="card-title cat-card-font">Deshi Tashor Hand Fulkari</h5>
+									  	</div>
+									</div>
+								</a>
 							</div>
 						</div>
 				    </div>
@@ -747,7 +765,8 @@
 		</div>
 	</div>
 	<!-- end spcial and must have product -->
-
+</div>
+<div class="container-fluid">
 	<!-- testimonials -->
 	<div class="row testimonial-area">
 		<div class="container">

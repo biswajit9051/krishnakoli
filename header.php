@@ -25,6 +25,28 @@
   	<link rel="stylesheet" type="text/css" href="css/master.style.css">
 
     <style type="text/css">
+      body{
+        background-color: #f7f7f7;
+      }
+      .breadcrumb.bg-none, nav.bg-none{
+        background-color: transparent !important;
+      }
+      .text-blue{
+        color: #3a9cff !important;
+      }
+      .bg-white{
+        background-color: white !important;
+      }
+      .breadcrumb.bg-breadcum{
+        background: rgb(149,201,254);
+        background: linear-gradient(180deg, rgba(149,201,254,1) 0%, rgba(58,156,255,1) 100%);
+      }
+      .breadcrumb-item>a{
+        color: #3a9cff !important;
+      }
+      .breadcrumb-item.active{
+        color: #313131 !important;
+      }
       .mouse-hover:hover{
           cursor: pointer;
           box-shadow: 0px 2px 19px -5px rgba(0,0,0,0.15);
@@ -34,7 +56,6 @@
       }
       .spcial-product-heading{
         font-size: .8rem;
-        color: red;
       }
       img.spcial-product-img{
         height: 150px;
@@ -49,7 +70,64 @@
         background-position: center; 
         background-size: cover;
       }
-    
+      .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .card-header>h6{
+        font-size: .7rem;
+      }
+      ul.filter-area >.list-group-item{
+        font-size: .7rem;
+        display: block;
+        vertical-align: middle;
+      }
+      .list-group-item input {
+        padding: 0;
+        height: initial;
+        width: initial;
+        margin-bottom: 0;
+        display: none;
+        cursor: pointer;
+      }
+
+      .list-group-item label {
+        position: relative;
+        cursor: pointer;
+        margin-bottom: 0 !important;
+      }
+
+      .list-group-item label:before {
+        content:'';
+        -webkit-appearance: none;
+        background-color: transparent;
+        border: 2px solid #3a9cff;
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05), inset 0px -15px 10px -12px rgba(0, 0, 0, 0.05);
+        padding: 6px;
+        display: inline-block;
+        position: relative;
+        vertical-align: middle;
+        cursor: pointer;
+        margin-right: 5px;
+      }
+
+      .list-group-item input:checked + label:after {
+        content: '';
+        display: block;
+        position: absolute;
+        top: 4px;
+        left: 5px;
+        width: 6px;
+        height: 9px;
+        border: solid #0079bf;
+        border-width: 0 2px 2px 0;
+        font-size: 2px;
+        transform: rotate(45deg);
+      }
+
+
       /*// Extra small devices (portrait phones, less than 576px)*/
       @media (max-width: 511px) { 
         .col-xxs-6{
@@ -60,9 +138,8 @@
           flex: 0 0 33.333333%;
           max-width: 33.333333%;
         }
-        img.img-size-lg-300{
-          height: 200px !important;
-        }
+
+        
       }
       /*// Extra small devices (portrait phones, less than 576px)*/
       @media (max-width: 575.98px) { 
@@ -76,9 +153,10 @@
           flex: 0 0 50%;
           max-width: 50%;
         }
-        img.img-size-lg-300{
+       img.img-sm-h-400{
           height: 200px !important;
         }
+
 
       }
 
@@ -86,7 +164,7 @@
       @media (max-width: 767.98px) {
         .portfolio-tab ul li{
           display: inline;
-          padding: 6px 8px;
+          padding: 2px 6px;
           margin: 0 3px;
         }
         .cat-card-font{
@@ -123,6 +201,145 @@
       }
       
     </style>
+    <style type="text/css">
+      /*card*/
+      /* card */
+      .dress-card-img-top {
+        width:100%;
+        border-radius: 7px 7px 0 0;
+      }
+
+      .dress-card-body {
+        padding:1rem;
+        background: #fff;
+        border-radius: 0 0 7px 7px;
+      }
+
+      .dress-card-title {
+        line-height: 0.5rem;
+      }
+
+      .dress-card-crossed {
+        text-decoration: line-through;
+      }
+
+      .dress-card-price {
+        font-size: 1rem;
+        font-weight: bold;
+      }
+
+      .dress-card-off {
+        color: #3a9cff;
+      }
+
+      .dress-card-para {
+        margin-bottom: 0.2rem;
+        font-size: 1.0rem;
+        margin-bottom: 0rem;
+      }
+
+      .dress-card {
+        border-radius: 14px;
+      }
+
+      .dress-card-heart {
+        font-size: 1em;
+        color: #DB2763;
+        margin: 4.5px;
+        position: absolute;
+        left: 4px;
+        top: 0px;
+        
+      }
+
+      .surprise-bubble {
+        position: absolute;
+        bottom: 12rem;
+        right: 2rem;
+        border-radius: 50%;
+        width: 30px;
+        height: 30px;
+        background: #fff;
+        padding: 1rem;
+        color: white;
+        -webkit-transition: all 0.55s cubic-bezier(0.645, 0.045, 0.355, 1);
+        transition: all 0.55s cubic-bezier(0.645, 0.045, 0.355, 1);
+      }
+
+      .surprise-bubble a {
+        font-size: 0.65em;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        color: white;
+        font-family: arial;
+        text-decoration: none;
+        position: absolute;
+        top: 9px;
+        left: 20px;
+        opacity: 0;
+        -webkit-transition-delay: 2s;
+        /* Safari */
+        transition-delay: 2s;
+        -webkit-transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1);
+        transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1);
+      }
+
+      .surprise-bubble:hover {
+        border-radius: 999rem;
+        padding: 1rem;
+        width: 26%;
+        height: 30px;
+        background: #DB2763;
+        color: white;
+        -webkit-transition: all 0.55s cubic-bezier(0.645, 0.045, 0.355, 1);
+        transition: all 0.55s cubic-bezier(0.645, 0.045, 0.355, 1);
+      }
+
+      .surprise-bubble:hover a {
+        opacity: 1;
+        -webkit-transition-delay: 2s;
+        /* Safari */
+        transition-delay: 2s;
+        -webkit-transition: opacity 1s cubic-bezier(0.645, 0.045, 0.355, 1);
+        transition: opacity 1s cubic-bezier(0.645, 0.045, 0.355, 1);
+      }
+
+      .card-button {
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 15px;
+        padding: 9px;
+      }
+      .card-button a {
+        text-decoration: none;
+      }
+
+      .card-button-inner {
+        padding: 10px;
+        border-radius: 3px;
+      }
+
+      .bag-button {
+        background: #3a9cff;
+        color: white;
+      }
+
+      .bag-button :hover{
+        background: #e299b9;
+      }
+
+      .wish-button {
+        border: 1px solid #3a9cff;
+        color: #3a9cff;
+      }
+      .pointer{
+        cursor: pointer;
+      }
+      li.list-group-item{
+        padding: .15rem 1.25rem !important;
+      }
+      
+    </style>
 </head>
 <body>
   <nav class="navbar navbar-expand-sm navbar-dark">
@@ -133,23 +350,18 @@
       <div class="collapse navbar-collapse" id="collapsibleNavbar">
         <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link" href="index.php">HOME</a>
+              <a class="nav-link" href="index.php">Home</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">BANARASI</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">SILK SAREE</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">COLLON</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">CHIFFON / NET</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="contact.php">CONTACT US</a>
-            </li>
+            <?php
+              foreach ($header_li as $key => $value) {
+                ?>
+                <li class="nav-item">
+                  <a class="nav-link" href="<?php echo $value; ?>"><?php echo $key; ?></a>
+                </li>
+                <?php
+              }
+            ?>  
         </ul>
-      </div>  
+      </div>
+      
   </nav>

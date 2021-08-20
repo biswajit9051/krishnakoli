@@ -1,9 +1,9 @@
 <!-- footer -->
 	<footer>
-		<div class="container">
+		<div class="container-fluid">
 			<div class="row pt-5">
 				<div class="col-12 text-center">
-					<a class="navbar-brand" href="#"><?php echo COMPANY_NAME; ?></a>
+					<a class="navbar-brand text-white" href="#"><?php echo COMPANY_NAME; ?></a>
 				</div>
 				<div class="col-12 text-center">
 					<ul class="list-inline">
@@ -57,7 +57,7 @@
 					</ul>
 				</div>
 			</div>
-		</div>
+		
 		<div class="container-fluid">
 			<div class="row copyright_section_bg">
 				<div class="col-12">
@@ -66,7 +66,7 @@
 							<p class="text-white">Copyright © 2021 <?php echo COMPANY_NAME; ?> Pvt. Ltd.</p>
 						</div>
 						<div>
-							<p class="text-white">Developed by IPS</p>
+							<p class="text-white">Developed by Biswajit Das</p>
 						</div>
 					</div>
 				</div>
@@ -115,13 +115,13 @@
 
   	</script>
 
-  	<script>
+  	<!-- <script>
       $(document).ready(function() {
           	document.addEventListener("contextmenu", function(e){
 			    e.preventDefault();
 			}, false);
         });
-    </script>
+    </script> -->
 
   	<!-- client carasol -->
   	<script type="text/javascript">
