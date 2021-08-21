@@ -69,62 +69,62 @@
 		</div>
 	</div>
 	<!-- end free shipping -->
-
 	<!-- slider -->
 	<div class="row d-flex justify-content-center">
 		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 			<h3 class="text-center mt-5 mb-5">Featured Section</h3>
 		</div>
-		<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
-			<div id="demo1" class="carousel slide" data-ride="carousel">
+		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+			<div class="grid-container-feacher">
+			  	<div class="feacher-item1">
+			  		<div id="demo1" class="carousel slide" data-ride="carousel">
 
-			  	<!-- Indicators -->
-			  	<ul class="carousel-indicators">
-				    <li data-target="#demo1" data-slide-to="0" class="active"></li>
-				    <li data-target="#demo1" data-slide-to="1"></li>
-				    <li data-target="#demo1" data-slide-to="2"></li>
-			  	</ul>
+					  	<!-- Indicators -->
+					  	<ul class="carousel-indicators">
+						    <li data-target="#demo1" data-slide-to="0" class="active"></li>
+						    <li data-target="#demo1" data-slide-to="1"></li>
+						    <li data-target="#demo1" data-slide-to="2"></li>
+					  	</ul>
 
-			  	<!-- The slideshow -->
-			  	<div class="carousel-inner">
-				    <div class="carousel-item active text-center">
-				      <img src="images/banner_image/cotton_saree.jpg" alt="Los Angeles" style="height: 510px; width: 100%;">
-				    </div>
-				    <div class="carousel-item text-center">
-				      <img src="images/banner_image/cotton_saree.jpg" alt="Chicago" style="height: 510px; width: 100%;">
-				    </div>
-				    <div class="carousel-item text-center">
-				      <img src="images/banner_image/cotton_saree.jpg" alt="New York" style="height: 510px; width: 100%;">
-				    </div>
-				    <div class="carousel-item text-center">
-				      <img src="images/banner_image/cotton_saree.jpg" alt="New York" style="height: 510px; width: 100%;">
-				    </div>
-				    <div class="carousel-item text-center">
-				      <img src="images/banner_image/cotton_saree.jpg" alt="New York" style="height: 510px; width: 100%;">
-				    </div>
+					  	<!-- The slideshow -->
+					  	<div class="carousel-inner">
+						    <div class="carousel-item active text-center">
+						      <img src="images/banner_image/cotton_saree.jpg" alt="Los Angeles" style="height: 510px; width: 100%;">
+						    </div>
+						    <div class="carousel-item text-center">
+						      <img src="images/banner_image/cotton_saree.jpg" alt="Chicago" style="height: 510px; width: 100%;">
+						    </div>
+						    <div class="carousel-item text-center">
+						      <img src="images/banner_image/cotton_saree.jpg" alt="New York" style="height: 510px; width: 100%;">
+						    </div>
+						    <div class="carousel-item text-center">
+						      <img src="images/banner_image/cotton_saree.jpg" alt="New York" style="height: 510px; width: 100%;">
+						    </div>
+						    <div class="carousel-item text-center">
+						      <img src="images/banner_image/cotton_saree.jpg" alt="New York" style="height: 510px; width: 100%;">
+						    </div>
+					  	</div>
+
+					  	<!-- Left and right controls -->
+					  	<a class="carousel-control-prev" href="#demo1" data-slide="prev">
+						    <span class="carousel-control-prev-icon"></span>
+					  	</a>
+					  	<a class="carousel-control-next" href="#demo1" data-slide="next">
+						    <span class="carousel-control-next-icon"></span>
+					  	</a>
+					</div>
 			  	</div>
-
-			  	<!-- Left and right controls -->
-			  	<a class="carousel-control-prev" href="#demo1" data-slide="prev">
-				    <span class="carousel-control-prev-icon"></span>
-			  	</a>
-			  	<a class="carousel-control-next" href="#demo1" data-slide="next">
-				    <span class="carousel-control-next-icon"></span>
-			  	</a>
-			</div>
-		</div>
-		<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-			<div class="row">
-				<div class="col-lg-12 col-md-12 col-sm-6 col-xs-6 text-center">
-					<img src="images/banner_image/poster-1.jpg" class="img-fluid">
-				</div>
-				<div class="col-lg-12 col-md-12 col-sm-6 col-xs-6 text-center">
-					<img src="images/banner_image/poster-1.jpg" class="img-fluid">
-				</div>
+			  	<div class="feacher-item2">
+			  		<img src="images/banner_image/poster-1.jpg" class="img-fluid" style="height: 220px">
+			  	</div>
+			  	<div class="feacher-item3">
+			  		<img src="images/banner_image/poster-1.jpg" class="img-fluid" style="height: 220px">
+			  	</div>  
 			</div>
 		</div>
 	</div>
-	<!-- end slider -->
+
+
 	<!-- Responsive Portfolio Gallery Filter Using CSS Grid -->
 	<div class="row">
 		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">

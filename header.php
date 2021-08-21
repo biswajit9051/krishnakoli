@@ -28,6 +28,14 @@
       body{
         background-color: #f7f7f7;
       }
+      /*header*/
+      .navbar-dark .navbar-nav .nav-link{
+        color: white !important;
+      }
+      .navbar-dark .navbar-nav .nav-link:hover{
+        color: #e4e4e4 !important;
+      }
+      /*end header*/
       .breadcrumb.bg-none, nav.bg-none{
         background-color: transparent !important;
       }
@@ -84,48 +92,24 @@
         display: block;
         vertical-align: middle;
       }
-      .list-group-item input {
-        padding: 0;
-        height: initial;
-        width: initial;
-        margin-bottom: 0;
-        display: none;
-        cursor: pointer;
+      
+      /* feacher image grid style */
+      .grid-container-feacher {
+        display: grid;
+        grid-template-columns: auto auto;
+        grid-gap: 5px;
+        padding: 0px;
       }
 
-      .list-group-item label {
-        position: relative;
-        cursor: pointer;
-        margin-bottom: 0 !important;
+      .grid-container-feacher > div {
+        text-align: center;
+        padding: 0 0;
       }
 
-      .list-group-item label:before {
-        content:'';
-        -webkit-appearance: none;
-        background-color: transparent;
-        border: 2px solid #3a9cff;
-        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05), inset 0px -15px 10px -12px rgba(0, 0, 0, 0.05);
-        padding: 6px;
-        display: inline-block;
-        position: relative;
-        vertical-align: middle;
-        cursor: pointer;
-        margin-right: 5px;
+      .feacher-item1 {
+        grid-row: 1 / 3;
       }
-
-      .list-group-item input:checked + label:after {
-        content: '';
-        display: block;
-        position: absolute;
-        top: 4px;
-        left: 5px;
-        width: 6px;
-        height: 9px;
-        border: solid #0079bf;
-        border-width: 0 2px 2px 0;
-        font-size: 2px;
-        transform: rotate(45deg);
-      }
+      /* end feacher image grid style */
 
 
       /*// Extra small devices (portrait phones, less than 576px)*/
@@ -156,7 +140,9 @@
        img.img-sm-h-400{
           height: 200px !important;
         }
-
+        .mb-xs-2{
+          margin-bottom: 1em !important;
+        }
 
       }
 

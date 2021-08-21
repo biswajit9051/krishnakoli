@@ -1,6 +1,26 @@
 <?php include('header.php'); ?>
 
+<?php
 
+	$category_arr = array(); $price_arr = array(); $customer_rating_arr = array(); $discount_arr = array(); $availability_arr = array();
+
+	if(!empty($_GET['filter-category'])){
+		$category_arr = $_GET['filter-category'];
+	}
+	if(!empty($_GET['filter-price'])){
+		$price_arr = $_GET['filter-price'];
+	}
+	if(!empty($_GET['filter-customer-rating'])){
+		$customer_rating_arr = $_GET['filter-customer-rating'];
+	}
+	if(!empty($_GET['filter-discount'])){
+		$discount_arr = $_GET['filter-discount'];	
+	}
+	if(!empty($_GET['filter-availability'])){
+		$availability_arr = $_GET['filter-availability'];	
+	}
+	
+?>
 <div class="container-fluid">
 	<div class="row">
 		<img src="images/banner_image/saree-5.jpg" alt="silk saree" class="img-fluid center img-sm-h-400">
