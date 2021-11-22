@@ -43,10 +43,20 @@
 		        <ul class="list-group mt-2 filter-area">
 				  	<li class="list-group-item border-0">
 				  		<label><input type="checkbox" class="mr-2" name="filter-price[]" value="500-below">&#8377 500 and below</label>
+				  	</li>
+				  	<li class="list-group-item border-0">
 						<label><input type="checkbox" class="mr-2" name="filter-price[]" value="500-1000">&#8377 500 to 1000</label>
+					</li>
+					<li class="list-group-item border-0">
 						<label><input type="checkbox" class="mr-2" name="filter-price[]" value="1000-1500">&#8377 1000 to 1500</label>
+					</li>
+					<li class="list-group-item border-0">
 						<label><input type="checkbox" class="mr-2" name="filter-price[]" value="1500-2000">&#8377 1500 to 2000</label>
+					</li>
+					<li class="list-group-item border-0">
 						<label><input type="checkbox" class="mr-2" name="filter-price[]" value="2000-2500">&#8377 2000 to 2500</label>
+					</li>
+					<li class="list-group-item border-0">
 						<label><input type="checkbox" class="mr-2" name="filter-price[]" value="2500-above">&#8377 2500 and above</label>
 				  	</li>
 				</ul>
@@ -67,9 +77,17 @@
 		        <ul class="list-group mt-2 filter-area">
 				  	<li class="list-group-item border-0 ">
 				  		<label><input type="checkbox" class="mr-2" name="filter-customer-rating[]" value="5">5★ & above</label>
+				  	</li>
+				  	<li class="list-group-item border-0 ">
 						<label><input type="checkbox" class="mr-2" name="filter-customer-rating[]" value="4">4★ & above</label>
+					</li>
+					<li class="list-group-item border-0 ">
 						<label><input type="checkbox" class="mr-2" name="filter-customer-rating[]" value="3">3★ & above</label>
+					</li>
+					<li class="list-group-item border-0 ">
 						<label><input type="checkbox" class="mr-2" name="filter-customer-rating[]" value="2">2★ & above</label>
+					</li>
+					<li class="list-group-item border-0 ">
 						<label><input type="checkbox" class="mr-2" name="filter-customer-rating[]" value="1">1★ & above</label>
 				  	</li>
 				</ul>
@@ -90,10 +108,20 @@
 		        <ul class="list-group pb-2 mt-2 filter-area">
 				  	<li class="list-group-item border-0 ">
 				  		<label><input type="checkbox" class="mr-2" name="filter-discount[]" value="50">50% or more</label>
+				  	</li>
+				  	<li class="list-group-item border-0 ">
 				  		<label><input type="checkbox" class="mr-2" name="filter-discount[]" value="40">40% or more</label>
+				  	</li>
+				  	<li class="list-group-item border-0 ">
 				  		<label><input type="checkbox" class="mr-2" name="filter-discount[]" value="30">30% or more</label>
+				  	</li>
+				  	<li class="list-group-item border-0 ">
 				  		<label><input type="checkbox" class="mr-2" name="filter-discount[]" value="20">20% or more</label>
+				  	</li>
+				  	<li class="list-group-item border-0 ">
 				  		<label><input type="checkbox" class="mr-2" name="filter-discount[]" value="10">10% or more</label>
+				  	</li>
+				  	<li class="list-group-item border-0 ">
 						<label><input type="checkbox" class="mr-2" name="filter-discount[]" value="10-below">10% and below</label>
 				  	</li>
 				</ul>

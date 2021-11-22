@@ -92,6 +92,9 @@
         display: block;
         vertical-align: middle;
       }
+      li.list-group-item > label{
+        display: block !important;
+      }
       
       /* feacher image grid style */
       .grid-container-feacher {
@@ -111,6 +114,18 @@
       }
       /* end feacher image grid style */
 
+      hr.kk-hr{
+        width: 10%;
+        margin: 0 auto;
+        background-color: #3A9CFF;
+        height: 1px;
+      }
+
+      li.footer_list_item>a:hover , li.footer_list_item:hover{
+        color: white;
+        cursor: pointer;
+        text-decoration: none;
+      }
 
       /*// Extra small devices (portrait phones, less than 576px)*/
       @media (max-width: 511px) { 
@@ -329,7 +344,7 @@
 </head>
 <body>
   <nav class="navbar navbar-expand-sm navbar-dark">
-      <a class="navbar-brand" href="#"><?php echo COMPANY_NAME;?></a>
+      <a class="navbar-brand" href="#"><img src="images/logo/logo.png" alt="krishnakoli" class="img-fluid" style="width: 100px;"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
         <span class="navbar-toggler-icon"></span>
       </button>

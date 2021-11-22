@@ -9,6 +9,7 @@
 	<div class="row">
 		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 			<h5 class="text-center text-blue mt-4 mb-3">TASHOR SAREE COLLECTIONS</h5>
+			<hr class="kk-hr">
 		</div>
 	</div>
 	<div class="row">
@@ -25,8 +26,7 @@
 				    <nav aria-label="breadcrumb" class="bg-none">
 					  	<ol class="breadcrumb bg-none border-0 rounded-0">
 				    		<li class="breadcrumb-item"><a href="#">Home</a></li>
-					    	<li class="breadcrumb-item"><a href="#">Library</a></li>
-					    	<li class="breadcrumb-item active" aria-current="page">Data</li>
+					    	<li class="breadcrumb-item active" aria-current="page">Tashor Saree</li>
 					  	</ol>
 					</nav>
 			  	</div>  
@@ -51,7 +51,7 @@
 			<div class="row">
 				<!-- block grid - (single page product card) -->
 				<div class="col-md-3">
-			        <div class="dress-card">
+			        <div class="dress-card mt-1 mb-1">
 			          <div class="dress-card-head">
 			            <img class="dress-card-img-top" src="https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7578935/2018/10/23/d7b740bc-e00e-4bec-97aa-65016f8ff2e71540289479612-Harpa-Women-Dresses-2331540289479465-1.jpg" alt="">
 			            <div class="surprise-bubble"><span class="dress-card-heart">
@@ -71,7 +71,7 @@
 	     	 	</div>
 
 	     	 	<div class="col-md-3">
-			        <div class="dress-card">
+			        <div class="dress-card mt-1 mb-1">
 			          <div class="dress-card-head">
 			            <img class="dress-card-img-top" src="https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7578935/2018/10/23/d7b740bc-e00e-4bec-97aa-65016f8ff2e71540289479612-Harpa-Women-Dresses-2331540289479465-1.jpg" alt="">
 			            <div class="surprise-bubble"><span class="dress-card-heart">
@@ -91,7 +91,7 @@
 	     	 	</div>
 
 	     	 	<div class="col-md-3">
-			        <div class="dress-card">
+			        <div class="dress-card mt-1 mb-1">
 			          <div class="dress-card-head">
 			            <img class="dress-card-img-top" src="https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7578935/2018/10/23/d7b740bc-e00e-4bec-97aa-65016f8ff2e71540289479612-Harpa-Women-Dresses-2331540289479465-1.jpg" alt="">
 			            <div class="surprise-bubble"><span class="dress-card-heart">
@@ -111,7 +111,7 @@
 	     	 	</div>
 
 	     	 	<div class="col-md-3">
-			        <div class="dress-card">
+			        <div class="dress-card mt-1 mb-1">
 			          <div class="dress-card-head">
 			            <img class="dress-card-img-top" src="https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7578935/2018/10/23/d7b740bc-e00e-4bec-97aa-65016f8ff2e71540289479612-Harpa-Women-Dresses-2331540289479465-1.jpg" alt="">
 			            <div class="surprise-bubble"><span class="dress-card-heart">
@@ -131,7 +131,7 @@
 	     	 	</div>
 
 	     	 	<div class="col-md-3">
-			        <div class="dress-card">
+			        <div class="dress-card mt-1 mb-1">
 			          <div class="dress-card-head">
 			            <img class="dress-card-img-top" src="https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7578935/2018/10/23/d7b740bc-e00e-4bec-97aa-65016f8ff2e71540289479612-Harpa-Women-Dresses-2331540289479465-1.jpg" alt="">
 			            <div class="surprise-bubble"><span class="dress-card-heart">

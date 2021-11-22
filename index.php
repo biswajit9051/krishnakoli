@@ -14,19 +14,19 @@
 		  	<!-- The slideshow -->
 		  	<div class="carousel-inner">
 			    <div class="carousel-item active text-center">
-			      <img src="images/banner_image/slide-1.jpg" alt="Los Angeles" class="img-fluid">
+			      <img src="images/slider/slide-1.jpg" alt="Los Angeles" class="img-fluid">
 			    </div>
 			    <div class="carousel-item text-center">
-			      <img src="images/banner_image/slide-2.jpg" alt="Chicago" class="img-fluid">
+			      <img src="images/slider/slide-2.jpg" alt="Chicago" class="img-fluid">
 			    </div>
 			    <div class="carousel-item text-center">
-			      <img src="images/banner_image/slide-3.jpg" alt="New York" class="img-fluid">
+			      <img src="images/slider/slide-3.jpg" alt="New York" class="img-fluid">
 			    </div>
 			    <div class="carousel-item text-center">
-			      <img src="images/banner_image/slide-4.jpg" alt="New York" class="img-fluid">
+			      <img src="images/slider/slide-4.jpg" alt="New York" class="img-fluid">
 			    </div>
 			    <div class="carousel-item text-center">
-			      <img src="images/banner_image/slide-5.jpg" alt="New York" class="img-fluid">
+			      <img src="images/slider/slide-5.jpg" alt="New York" class="img-fluid">
 			    </div>
 		  	</div>
 
@@ -624,7 +624,7 @@
 	<!-- end online supports -->
 
 	<!-- spcial and must have product -->
-	<div class="row pt-5 pb-5">
+	<!-- <div class="row pt-5 pb-5">
 		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 			<div class="card mt-1 mb-1">
 				<div class="card-body">
@@ -763,7 +763,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 	<!-- end spcial and must have product -->
 </div>
 <div class="container-fluid">
