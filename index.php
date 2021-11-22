@@ -866,7 +866,7 @@
 		<div class="col-10">
 			<h3>Exclusive Banarasi Sarees Online Shopping</h3>
 			<p>
-			Banarasi Sarees are famous all over the world for its lustrous and incomparable beauty. Be it young, old, curvy or lean body a Pure Banarasi silk saree bring out the best in any woman. Our Exclusive Banarasi wedding sarees collection are intricately designed and inspired by royal artwork. The gold and silver brocade, or zari work has made this saree a perfect bridal attire. Shop from the premium range of Designer Banarasi and Traditional Banarasi sarees online at Adi Mohini Mohan Kanjilal.
+			Banarasi Sarees are famous all over the world for its lustrous and incomparable beauty. Be it young, old, curvy or lean body a Pure Banarasi silk saree bring out the best in any woman. Our Exclusive Banarasi wedding sarees collection are intricately designed and inspired by royal artwork. The gold and silver brocade, or zari work has made this saree a perfect bridal attire. Shop from the premium range of Designer Banarasi and Traditional Banarasi sarees online at Krishnakoli.
 			</p>
 		</div>
 	</div>
