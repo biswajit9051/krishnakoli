@@ -25,9 +25,6 @@
 			    <div class="carousel-item text-center">
 			      <img src="images/slider/slide-4.jpg" alt="banner 3" class="img-fluid">
 			    </div>
-			    <div class="carousel-item text-center">
-			      <img src="images/slider/slide-5.jpg" alt="banner 4" class="img-fluid">
-			    </div>
 		  	</div>
 
 		  	<!-- Left and right controls -->
@@ -857,16 +854,7 @@
 	</div>
 	<!-- end testimonials -->
 
-	<!-- Exclusive Banarasi Sarees Online Shopping -->
-	<div class="row pt-5 pb-5 justify-content-center">
-		<div class="col-10">
-			<h3>Exclusive Banarasi Sarees Online Shopping</h3>
-			<p>
-			Banarasi Sarees are famous all over the world for its lustrous and incomparable beauty. Be it young, old, curvy or lean body a Pure Banarasi silk saree bring out the best in any woman. Our Exclusive Banarasi wedding sarees collection are intricately designed and inspired by royal artwork. The gold and silver brocade, or zari work has made this saree a perfect bridal attire. Shop from the premium range of Designer Banarasi and Traditional Banarasi sarees online at Krishnakoli.
-			</p>
-		</div>
-	</div>
-	<!-- end Exclusive Banarasi Sarees Online Shopping -->
+
 
 
 	<!-- Explore New Designer Sarees Online Collection -->
@@ -877,7 +865,7 @@
 			</div>
 			<h3>Explore New Designer Sarees Online Collection at Krishnakoli</h3>
 			<p class="text-justify">
-			“Saree is an art and you are the canvas” This is an eternal truth that there are few things which never go out of style and delicate women in elegant saree is one of them. But it is also true that fashion changes very quickly and for this reason Adi Mohini Mohan Kanjilal, one of the largest ethnic store in India bringing perfect fashion that stays forever. Why Choose Us? “A woman should have two things – Class and Charm” You know that life is too short to be same person every day. Keeping in mind the growing demand of online shopping, Adimohinimohankanjilal has bring you the new and fashionable way of shopping. In our online store you can do online shopping with great conviction. You can quickly find your desired clothes with best deals and supports in our website. Here you will get latest design and trendy sarees which are not even available at the local market. If you have a special place for Bengali sarees in your mind then you can feast on our latest Silk Sarees, Banarasi sarees, Dhakai Jamdani Sarees collections. You will surely become delighted if you see our eccentric collection of outfits. Now, do not worry about attending a wedding or parties. We have an exotic collection of designer sarees, party sarees and reception sarees that truly make you look more alluring. Apart from this, our embroideried fancy sarees will truly enhance your charm. In our online store you will get a plethora of beautiful traditional handloom Sarees. Modern generation can buy from our trendy ethnic collection of chiffon sarees whose radiance, vigor and variety is outstanding. Apart from this, they can also buy modern Indo-western dresses, like Salwar suits, designer Lehengas, Palazzos etc which are more stylish and influential. South India is a treasure trove of rich culture and authentic clothes. You can have a look on our latest collection of unique South Indian Sarees like Kanjivaram, Arni Silks, Opara silks which give you an out-standing look. Our happiness depends on your shopping experience with us. We are aiming to provide 100% genuine quality products, timely delivery and exclusive discounts on every product. Check out our online store daily and stay updated with latest fashion trends.
+			“Saree is an art and you are the canvas” This is an eternal truth that there are few things which never go out of style and delicate women in elegant saree is one of them. But it is also true that fashion changes very quickly and for this reason Adi Mohini Mohan Kanjilal, one of the largest ethnic store in India bringing perfect fashion that stays forever. Why Choose Us? “A woman should have two things – Class and Charm” You know that life is too short to be same person every day. Keeping in mind the growing demand of online shopping, Krishnakoli has bring you the new and fashionable way of shopping. In our online store you can do online shopping with great conviction. You can quickly find your desired clothes with best deals and supports in our website. Here you will get latest design and trendy sarees which are not even available at the local market. If you have a special place for Bengali sarees in your mind then you can feast on our latest Silk Sarees, Banarasi sarees, Dhakai Jamdani Sarees collections. You will surely become delighted if you see our eccentric collection of outfits. Now, do not worry about attending a wedding or parties. We have an exotic collection of designer sarees, party sarees and reception sarees that truly make you look more alluring. Apart from this, our embroideried fancy sarees will truly enhance your charm. In our online store you will get a plethora of beautiful traditional handloom Sarees. Modern generation can buy from our trendy ethnic collection of chiffon sarees whose radiance, vigor and variety is outstanding. Apart from this, they can also buy modern Indo-western dresses, like Salwar suits, designer Lehengas, Palazzos etc which are more stylish and influential. South India is a treasure trove of rich culture and authentic clothes. You can have a look on our latest collection of unique South Indian Sarees like Kanjivaram, Arni Silks, Opara silks which give you an out-standing look. Our happiness depends on your shopping experience with us. We are aiming to provide 100% genuine quality products, timely delivery and exclusive discounts on every product. Check out our online store daily and stay updated with latest fashion trends.
 			</p>
 		</div>
 	</div>

@@ -19,9 +19,8 @@
 					<ul class="list-unstyled">
 						<li class="footer_list_heading">CONTACT US</li>
 						<li class="footer_list_item"><?php echo COMPANY_ADDRESS; ?></li>
-						<li class="footer_list_item">(+91) 9051757287</li>
-						<li class="footer_list_item">(+91) 9051757287</li>
-						<li class="footer_list_item">Infinity Square, Sevoke Rd, 2nd Mile, Near PC Mittal Bus Stop, Siliguri, West Bengal 734001</li>
+						<li class="footer_list_item">(+91) 9874019484</li>
+						<li class="footer_list_item">7E, Surendra Lal Pyne Lane Kolkata- 700012</li>
 						<li class="footer_list_item">info@kothakoli.com</li>
 						<li class="footer_list_item"><a href="https://goo.gl/maps/i1H54i8MhzCTm9Vd6" target="_blank"> Map Direction <i class="fas fa-external-link-alt"></i></a></li>
 					</ul>
@@ -153,8 +152,8 @@
 			nav: false,
 			mouseDrag: true,
 			autoplay: true,
-			autoplayTimeout: 1000,
-			smartSpeed: 800,
+			autoplayTimeout: 3000,
+			smartSpeed: 1000,
 			responsiveClass:true,
 		    responsive:{
 		        0:{
