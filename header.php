@@ -25,8 +25,8 @@
   	<link rel="stylesheet" type="text/css" href="css/master.style.css">
 
     <style type="text/css">
-      body{
-        background-color: #f7f7f7;
+      body, .bodyColor{
+        background-color: #ecf7ff !important;
       }
       /*header*/
       .navbar-dark .navbar-nav .nav-link{

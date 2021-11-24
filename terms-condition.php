@@ -10,7 +10,7 @@
 			<p>
 				The Terms and Conditions contained herein along form an Agreement regulating our relationship with regard to the use of krishnakoli.com by you.
 				<br>
-				Please read this Agreement carefully. You are advised to regularly check for any amendments or updates to the terms and conditions from time to time. ammk.in may add to or change or update these Terms of Use, from time to time entirely at its own discretion. You are responsible for checking these Terms of Use periodically to remain in compliance with these terms. Your use of a Site after any amendment to the Terms of Use shall constitute your acceptance of these terms and you also agree to be bound by any such changes/revisions.
+				Please read this Agreement carefully. You are advised to regularly check for any amendments or updates to the terms and conditions from time to time. krishnakoli.in may add to or change or update these Terms of Use, from time to time entirely at its own discretion. You are responsible for checking these Terms of Use periodically to remain in compliance with these terms. Your use of a Site after any amendment to the Terms of Use shall constitute your acceptance of these terms and you also agree to be bound by any such changes/revisions.
 				<br>
 				Any clause of terms and conditions if deemed invalid , void or for any reason unenforceable, shall be deemed severable and shall not affect the validity and enforceability of the remaining clauses of the terms and conditions.
 			</p>

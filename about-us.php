@@ -35,8 +35,6 @@
 			<ul>
 				<li>Delivering quality products at reasonable prices.</li>
 				<li>Satisfying the aesthetic demands of customers with artistic designs.</li>
-				<li>Providing installment schemes in the purchase of jewellery to build a clientele across every stratum of society.</li>
-				<li>Providing exchange and buy-back-schemes in order to make the customers updated with the latest fashion trends.</li>
 				<li>Serving adequate value for money.</li>
 			</ul>
 		</div>

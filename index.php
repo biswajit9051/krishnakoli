@@ -13,20 +13,20 @@
 
 		  	<!-- The slideshow -->
 		  	<div class="carousel-inner">
-			    <div class="carousel-item active text-center">
+			   <!--  <div class="carousel-item active text-center">
 			      <img src="images/slider/slide-1.jpg" alt="Los Angeles" class="img-fluid">
+			    </div> -->
+			    <div class="carousel-item active text-center">
+			      <img src="images/slider/slide-2.jpg" alt="banner 1" class="img-fluid">
 			    </div>
 			    <div class="carousel-item text-center">
-			      <img src="images/slider/slide-2.jpg" alt="Chicago" class="img-fluid">
+			      <img src="images/slider/slide-3.jpg" alt="banner 2" class="img-fluid">
 			    </div>
 			    <div class="carousel-item text-center">
-			      <img src="images/slider/slide-3.jpg" alt="New York" class="img-fluid">
+			      <img src="images/slider/slide-4.jpg" alt="banner 3" class="img-fluid">
 			    </div>
 			    <div class="carousel-item text-center">
-			      <img src="images/slider/slide-4.jpg" alt="New York" class="img-fluid">
-			    </div>
-			    <div class="carousel-item text-center">
-			      <img src="images/slider/slide-5.jpg" alt="New York" class="img-fluid">
+			      <img src="images/slider/slide-5.jpg" alt="banner 4" class="img-fluid">
 			    </div>
 		  	</div>
 
@@ -41,7 +41,7 @@
 		</div>
 	</div>
 	<!-- free shipping -->
-	<div class="row pt-5 pb-5" style="background-color: #f7f7f7eb;">
+	<div class="row pt-5 pb-5 bodyColor">
 		
 		<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 col-xxs-4">
 			<div class="d-block text-center">
@@ -780,14 +780,14 @@
 				<div class="single-testimonial">
 					<div class="round-1 round"></div>
 					<div class="round-2 round"></div>
-					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
+					<p>The product is exactly the same as what is shown in the picture, which is not the case of many online clothing sites. Very impressed by the purchase. Perfect for gifting purpose too.</p>
 					<div class="client-info">
 						<div class="client-video">
 							<a href="#"><img src="https://i.ibb.co/DWhSr6S/play-button2.png" alt=""></a>
 						</div>
 						<div class="client-details">
-							<h6>Yeasin Arafat</h6>
-							<span>Designer, LLCG Team</span>
+							<h6>Paromita Mukherjee</h6>
+							<!-- <span>Designer, LLCG Team</span> -->
 						</div>
 					</div>
 
@@ -796,14 +796,13 @@
 				<div class="single-testimonial">
 					<div class="round-1 round"></div>
 					<div class="round-2 round"></div>
-					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
+					<p>Bought a number of saris and jewellery from here for Pujo. All of them were very well packed and delivered to my house. Very good collection. Highly recommended.</p>
 					<div class="client-info">
 						<div class="client-video">
 							<a href="#"><img src="https://i.ibb.co/DWhSr6S/play-button2.png" alt=""></a>
 						</div>
 						<div class="client-details">
-							<h6>Yeasin Arafat</h6>
-							<span>Designer, LLCG Team</span>
+							<h6>Soma Paul</h6>
 						</div>
 					</div>
 
@@ -812,14 +811,13 @@
 				<div class="single-testimonial">
 					<div class="round-1 round"></div>
 					<div class="round-2 round"></div>
-					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
+					<p>Krishnakoli can be a big saviour for occasions and festivals. All the sarees and handbags that I had to buy for my sister's wedding was from here. Great service, very satisfied.</p>
 					<div class="client-info">
 						<div class="client-video">
 							<a href="#"><img src="https://i.ibb.co/DWhSr6S/play-button2.png" alt=""></a>
 						</div>
 						<div class="client-details">
-							<h6>Yeasin Arafat</h6>
-							<span>Designer, LLCG Team</span>
+							<h6>Sheema Sircar</h6>
 						</div>
 					</div>
 
@@ -828,14 +826,13 @@
 				<div class="single-testimonial">
 					<div class="round-1 round"></div>
 					<div class="round-2 round"></div>
-					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
+					<p>You don't have to think twice before buying anything from Krishnakoli. Huge range of collection for various kinds of sarees, jewellery, and handbags. Very trusted service; you don't have to worry about getting cheated on with the price and delivery.</p>
 					<div class="client-info">
 						<div class="client-video">
 							<a href="#"><img src="https://i.ibb.co/DWhSr6S/play-button2.png" alt=""></a>
 						</div>
 						<div class="client-details">
-							<h6>Yeasin Arafat</h6>
-							<span>Designer, LLCG Team</span>
+							<h6>Atri Saha</h6>
 						</div>
 					</div>
 
@@ -844,14 +841,13 @@
 				<div class="single-testimonial">
 					<div class="round-1 round"></div>
 					<div class="round-2 round"></div>
-					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
+					<p>Krishnakoli never fails to impress with their amazing collection, great packaging and fast delivery. Looking forward to order more.</p>
 					<div class="client-info">
 						<div class="client-video">
 							<a href="#"><img src="https://i.ibb.co/DWhSr6S/play-button2.png" alt=""></a>
 						</div>
 						<div class="client-details">
-							<h6>Yeasin Arafat</h6>
-							<span>Designer, LLCG Team</span>
+							<h6>Nilanjana Chakraborty.</h6>
 						</div>
 					</div>
 
