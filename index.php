@@ -259,7 +259,7 @@
 		                <li class="far fa-star"></li>
 		            </ul>
 		            <h3 class="title"><a href="#">Tashor Top And Dupatta</a></h3>
-		            <div class="price"><span>900.00</span> 656.00</div>
+		            <!-- <div class="price"><span>900.00</span> 656.00</div> -->
 		            <!-- <a class="add-to-cart" href="#">add to cart</a> -->
 		        </div>
 		    </div>
@@ -285,7 +285,7 @@
 		                <li class="far fa-star"></li>
 		            </ul>
 		            <h3 class="title"><a href="#">Pure Tashor Jari Border</a></h3>
-		            <div class="price"><span>1500.00</span> 1380.00</div>
+		            <!-- <div class="price"><span>1500.00</span> 1380.00</div> -->
 		            <!-- <a class="add-to-cart" href="#">add to cart</a> -->
 		        </div>
 		    </div>
@@ -312,7 +312,7 @@
 		                <li class="far fa-star"></li>
 		            </ul>
 		            <h3 class="title"><a href="#">Pure Bishnupuri Silk</a></h3>
-		            <div class="price"><span>780.00</span> 700.00</div>
+		            <!-- <div class="price"><span>780.00</span> 700.00</div> -->
 		            <!-- <a class="add-to-cart" href="#">add to cart</a> -->
 		        </div>
 		    </div>
@@ -338,7 +338,7 @@
 		                <li class="far fa-star"></li>
 		            </ul>
 		            <h3 class="title"><a href="#">Handmade Jewellery</a></h3>
-		            <div class="price"><span>500.00</span> 466.00</div>
+		            <!-- <div class="price"><span>500.00</span> 466.00</div> -->
 		            <!-- <a class="add-to-cart" href="#">add to cart</a> -->
 		        </div>
 		    </div>
@@ -365,7 +365,7 @@
 		                <li class="far fa-star"></li>
 		            </ul>
 		            <h3 class="title"><a href="#">Bishnupuri Katan Silk</a></h3>
-		            <div class="price"><span>900.00</span> 640.00</div>
+		            <!-- <div class="price"><span>900.00</span> 640.00</div> -->
 		            <!-- <a class="add-to-cart" href="#">add to cart</a> -->
 		        </div>
 		    </div>
@@ -391,7 +391,7 @@
 		                <li class="far fa-star"></li>
 		            </ul>
 		            <h3 class="title"><a href="#">Deshi Tashor Hand Fulkari</a></h3>
-		            <div class="price"><span>1990.00</span> 1660.00</div>
+		            <!-- <div class="price"><span>1990.00</span> 1660.00</div> -->
 		            <!-- <a class="add-to-cart" href="#">add to cart</a> -->
 		        </div>
 		    </div>
@@ -418,7 +418,7 @@
 		                <li class="far fa-star"></li>
 		            </ul>
 		            <h3 class="title"><a href="#">Tashor Embroidery</a></h3>
-		            <div class="price"><span>950.00</span> 616.00</div>
+		            <!-- <div class="price"><span>950.00</span> 616.00</div> -->
 		            <!-- <a class="add-to-cart" href="#">add to cart</a> -->
 		        </div>
 		    </div>
@@ -444,7 +444,7 @@
 		                <li class="far fa-star"></li>
 		            </ul>
 		            <h3 class="title"><a href="#">Deshi Tashor Hand Fulkari</a></h3>
-		            <div class="price"><span>900.00</span> 760.00</div>
+		            <!-- <div class="price"><span>900.00</span> 760.00</div> -->
 		            <!-- <a class="add-to-cart" href="#">add to cart</a> -->
 		        </div>
 		    </div>
@@ -452,42 +452,23 @@
 	</div>
 	<!-- end photo card view -->
 
-	<!-- client carasol -->
-	<div class="row pt-5 pb-5">
-		<div class="col-12">
-			<div class="carousel-client">
-				<div class="slide"><img src="images/client_logo/1.png"></div>
-				<div class="slide"><img src="images/client_logo/2.png"></div>
-				<div class="slide"><img src="images/client_logo/3.png"></div>
-				<div class="slide"><img src="images/client_logo/4.png"></div>
-				<div class="slide"><img src="images/client_logo/5.png"></div>
-				<div class="slide"><img src="images/client_logo/6.png"></div>
-				<div class="slide"><img src="images/client_logo/7.png"></div>
-				<div class="slide"><img src="images/client_logo/8.png"></div>
-				<div class="slide"><img src="images/client_logo/1.png"></div>
-				<div class="slide"><img src="images/client_logo/2.png"></div>
-			</div>
-		</div>
-	</div>
-	<!-- end client carasol -->
-
 	<!-- our catagory -->
-	<div class="row pt-5 pb-5">
+	<!-- <div class="row pt-5 pb-5">
 		<div class="col-12 text-center">
 			<h3 class="mb-5">CATEGORY</h3>
 		</div>
 		<div class="col-12">
-			<!--OUR CATEGORIES-->
+
 			<div id="demo2" class="carousel slide" data-ride="carousel">
 
-			  	<!-- Indicators -->
+
 			  	<ul class="carousel-indicators">
 				    <li data-target="#demo2" data-slide-to="0" class="active"></li>
 				    <li data-target="#demo2" data-slide-to="1"></li>
 				    <li data-target="#demo2" data-slide-to="2"></li>
 			  	</ul>
 
-			  	<!-- The slideshow -->
+
 			  	<div class="carousel-inner">
 				    <div class="carousel-item active text-center justify-content-center">
 				    	<div class="row">
@@ -579,7 +560,7 @@
 				    </div>
 			  	</div>
 
-			  	<!-- Left and right controls -->
+
 			  	<a class="carousel-control-prev" href="#demo2" data-slide="prev">
 				    <span class="carousel-control-prev-icon"></span>
 			  	</a>
@@ -588,7 +569,7 @@
 			  	</a>
 			</div>
 		</div>
-	</div>
+	</div> -->
 	<!-- end our category -->
 
 	<!-- online supports -->
@@ -865,7 +846,7 @@
 			</div>
 			<h3>Explore New Designer Sarees Online Collection at Krishnakoli</h3>
 			<p class="text-justify">
-			“Saree is an art and you are the canvas” This is an eternal truth that there are few things which never go out of style and delicate women in elegant saree is one of them. But it is also true that fashion changes very quickly and for this reason Adi Mohini Mohan Kanjilal, one of the largest ethnic store in India bringing perfect fashion that stays forever. Why Choose Us? “A woman should have two things – Class and Charm” You know that life is too short to be same person every day. Keeping in mind the growing demand of online shopping, Krishnakoli has bring you the new and fashionable way of shopping. In our online store you can do online shopping with great conviction. You can quickly find your desired clothes with best deals and supports in our website. Here you will get latest design and trendy sarees which are not even available at the local market. If you have a special place for Bengali sarees in your mind then you can feast on our latest Silk Sarees, Banarasi sarees, Dhakai Jamdani Sarees collections. You will surely become delighted if you see our eccentric collection of outfits. Now, do not worry about attending a wedding or parties. We have an exotic collection of designer sarees, party sarees and reception sarees that truly make you look more alluring. Apart from this, our embroideried fancy sarees will truly enhance your charm. In our online store you will get a plethora of beautiful traditional handloom Sarees. Modern generation can buy from our trendy ethnic collection of chiffon sarees whose radiance, vigor and variety is outstanding. Apart from this, they can also buy modern Indo-western dresses, like Salwar suits, designer Lehengas, Palazzos etc which are more stylish and influential. South India is a treasure trove of rich culture and authentic clothes. You can have a look on our latest collection of unique South Indian Sarees like Kanjivaram, Arni Silks, Opara silks which give you an out-standing look. Our happiness depends on your shopping experience with us. We are aiming to provide 100% genuine quality products, timely delivery and exclusive discounts on every product. Check out our online store daily and stay updated with latest fashion trends.
+			“Saree is an art and you are the canvas” This is an eternal truth that there are few things which never go out of style and a women in an elegant saree is one of them. But it is also true that fashion changes very quickly and for this reason Krishnakoli, one of the best online stores in India bringing the perfect fashion that stays forever. Why Choose Us? “A woman should have two things – Class and Charm” You know that life is too short to be same person every day. Keeping in mind the growing demand of online shopping, Krishnakoli has brought you the new and fashionable way of shopping. In our online store you can do online shopping with great conviction. You can quickly find your desired clothes with best deals and supports in our website. Here you will get latest design and trendy sarees which are not even available at the local market at cheap price and best quality. If you have a special place for Bengali sarees in your mind then you can feast on our latest Silk Sarees, Dhakai Jamdani Sarees, etc collections. You will surely become delighted if you see our eccentric collection of outfits. Now, do not worry about attending a wedding or party. We have an exotic collection of designer sarees, party sarees, reception sarees and customizable sarees that truly make you look more alluring. Apart from this, our embroideried fancy sarees will truly enhance your charm. In our online store you will get a plethora of beautiful traditional handloom Sarees. Modern generation can buy from our trendy ethnic collection of sarees whose radiance, vigor and variety are outstanding. Apart from this, they can also buy modern Indo-western dresses, like Salwar suits, Mekhlas, etc which are very stylish and influential. South India is a treasure trove of rich culture and authentic clothes. You can have a look on our latest collection of unique South Indian Sarees like Semi Kanjivaram, Opara silks which give you an out-standing look. Our happiness depends on your shopping experience with us. We are aiming to provide 100% genuine quality products, timely delivery and exclusive discounts on every product. Check out our online store daily and stay updated with latest fashion trends.
 			</p>
 		</div>
 	</div>

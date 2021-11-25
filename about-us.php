@@ -10,33 +10,17 @@
 	</div>
 	<div class="row mb-5">
 		<div class="col-12">
-			<h4>The Beginning</h4>
 			<p>
-				kothakoli is a company with a legacy of over five decades. The Company was originally incorporated as exclusive collections on August 22, 1994, at Kolkata, West Bengal, under the provisions of the Companies Act, 1956. 
-				<br>
-				Subsequently, pursuant to a resolution passed at the meeting of the Board of Directors held on June 27, 2007, and a special resolution of the Shareholders at the EGM held on August 8, 2007, the name of the Company was changed to kothakoli.com, pursuant to its conversion into a public limited company. A fresh certificate of incorporation dated August 31, 2007, consequent to the change of name, was issued by the RoC. The Company was converted to a public limited company in order to expand its activities in the field of the jewellery business.
+				A brand started by Priyanka Sarkar, whose love for fashion finally gets to be shared with all of you.
 			</p>
-		</div>
-		<div class="col-12">
-			<h4>The Visionaries</h4>
+			<h3>About The Owner:</h3>
 			<p>
-				Shaankar Sen, aged 60 years, is the Chairman and Managing Director of the Company. He holds a bachelor’s degree in commerce from the University of Calcutta. He has been associated with the Company since its inception and has over 35 years of experience in the garments industry. Prior to joining the Company, he was associated with garments Mart.
-			
+				Priyanka Sarkar, originally from Durgapur, now resides in College Street, Kolkata after marriage. She had always had a huge love for different kinds of clothing and jewellery, and would always help her friends and relatives with great fashion advice. Priyanka had always wanted to do more about her passion, but being a homemaker and mother of one, she never got the time to follow her dream. However, when the world came to a standstill with the lockdown, she thought that now is the right time to finally begin what she had always wanted to do. With a lot of hard work and dedication, Krishnakoli was born.
 			</p>
-		</div>
-		<div class="col-12">
-			<h4>Vision</h4>
+			<h3>About The Brand:</h3>
 			<p>
-				To be one of the most reputed organizations promoting handcrafted products across the world, preserving art and creativity through its merchandise, and aiding the growth and happiness of all its stakeholders.
+				 Krishnakoli offers a vast range of sarees, jewellery, and bags to get you decked up for any occasion, be it just a casual outing or a fancy party. Started in 2021, Krishnakoli has already been a huge success with extremely satisfied customers not only around the country but also in the overseas. Starting from easy communication with the owner herself, to a collection of products you cannot stop yourself from drooling over, to great packaging and safe delivery, you won't regret being a part of the Krishnakoli family. Want to have all the heads turned to you and get showered with compliments on what a diva you look? Krishnakoli is always at your service.
 			</p>
-		</div>
-		<div class="col-12">
-			<h4>Mission</h4>
-			<ul>
-				<li>Delivering quality products at reasonable prices.</li>
-				<li>Satisfying the aesthetic demands of customers with artistic designs.</li>
-				<li>Serving adequate value for money.</li>
-			</ul>
 		</div>
 	</div>
 </div>
