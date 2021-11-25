@@ -20,7 +20,7 @@
 						<li class="footer_list_heading">CONTACT US</li>
 						<li class="footer_list_item"><?php echo COMPANY_ADDRESS; ?></li>
 						<li class="footer_list_item">(+91) 9874019484</li>
-						<li class="footer_list_item">7E, Surendra Lal Pyne Lane Kolkata- 700012</li>
+						<li class="footer_list_item">7C, Surendra Lal Pyne Lane Kolkata- 700012</li>
 						<li class="footer_list_item">info@kothakoli.com</li>
 						<li class="footer_list_item"><a href="https://goo.gl/maps/i1H54i8MhzCTm9Vd6" target="_blank"> Map Direction <i class="fas fa-external-link-alt"></i></a></li>
 					</ul>
